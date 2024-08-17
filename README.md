@@ -51,7 +51,6 @@ For example, inside the projectsConfig.js file, the list of projects has a prope
 You can set any valid href for the `<a/>` tag as an image URL or, like in the above image,
 an image from the `assets/images` folder.
 
-![projects_images](projects_images.png)
 
 
 ### Set Google Analytics track (Optional):
