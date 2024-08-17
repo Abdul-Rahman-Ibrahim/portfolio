@@ -2,9 +2,14 @@ import { BiGitRepoForked } from "react-icons/bi";
 import { AiFillGithub, AiFillEye } from "react-icons/ai";
 import { ImBook } from "react-icons/im";
 
-import sklearnGenetic from "../images/sklearn_genetic_opt.png"
-import graphEmbeddings from "../images/graph_embeddings.png"
-import kafkaMl from "../images/kafkaml.png"
+import marblegame from "../images/marble_game.png"
+import kubooks from "../images/kubooks.png"
+import bp from "../images/BP.png"
+import fpga from "../images/fpga.png"
+
+// import sklearnGenetic from "../images/sklearn_genetic_opt.png"
+// import graphEmbeddings from "../images/graph_embeddings.png"
+// import kafkaMl from "../images/kafkaml.png"
 import portfolio from "../images/portfolio.png"
 
 import React from 'react'
@@ -35,7 +40,7 @@ const projectConfig = [
                 icon: <ImBook />,
             }
         ],
-        image: sklearnGenetic,
+        image: marblegame,
         description: "A popular childhood game in Ghana",
         target: "_blank"
     },
@@ -64,7 +69,7 @@ const projectConfig = [
                 icon: <ImBook />,
             }
         ],
-        image: graphEmbeddings,
+        image: kubooks,
         description: "A book review and recommendation app",
         target: "_blank"
     },
@@ -88,7 +93,7 @@ const projectConfig = [
                 icon: <AiFillEye />
             }
         ],
-        image: kafkaMl,
+        image: bp,
         description: "Project for real-time Blood pressure estimation using dataset from NHANES.",
         target: "_blank"
     },
@@ -117,7 +122,7 @@ const projectConfig = [
                 icon: <ImBook />,
             }
         ],
-        image: "https://miro.medium.com/max/1400/1*UDnhOFK35IbAPx15wkMgVg.jpeg",
+        image: fpga,
         description: "Ping Pong Game with VHDL and FPGA",
         target: "_blank"
     },
