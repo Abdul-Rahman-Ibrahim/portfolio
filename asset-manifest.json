@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.aab1130e.css",
-    "main.js": "/portfolio/static/js/main.c9bd1c4b.js",
+    "main.js": "/portfolio/static/js/main.5ebea80d.js",
     "static/media/fpga.png": "/portfolio/static/media/fpga.49ae2900a5b1e646bd93.png",
     "static/media/marble_game.png": "/portfolio/static/media/marble_game.37e68dc3c019fb2cc9f7.png",
     "static/media/kubooks.png": "/portfolio/static/media/kubooks.8a2dbfa8943bd090765e.png",
@@ -9,12 +9,13 @@
     "static/media/fastapi_sklearn.png": "/portfolio/static/media/fastapi_sklearn.0bfaec4cff582eb26751.png",
     "static/media/BP.png": "/portfolio/static/media/BP.5fe1debc68f0f5aa5f74.png",
     "static/media/portfolio.png": "/portfolio/static/media/portfolio.565c9c29306627d2173d.png",
+    "static/media/matlab.png": "/portfolio/static/media/matlab.af07c4a65449874b7292.png",
     "index.html": "/portfolio/index.html",
     "main.aab1130e.css.map": "/portfolio/static/css/main.aab1130e.css.map",
-    "main.c9bd1c4b.js.map": "/portfolio/static/js/main.c9bd1c4b.js.map"
+    "main.5ebea80d.js.map": "/portfolio/static/js/main.5ebea80d.js.map"
   },
   "entrypoints": [
     "static/css/main.aab1130e.css",
-    "static/js/main.c9bd1c4b.js"
+    "static/js/main.5ebea80d.js"
   ]
 }
