@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.aab1130e.css",
-    "main.js": "/portfolio/static/js/main.682586c1.js",
+    "main.js": "/portfolio/static/js/main.76224f48.js",
     "static/media/fpga.png": "/portfolio/static/media/fpga.49ae2900a5b1e646bd93.png",
     "static/media/marble_game.png": "/portfolio/static/media/marble_game.37e68dc3c019fb2cc9f7.png",
     "static/media/kubooks.png": "/portfolio/static/media/kubooks.8a2dbfa8943bd090765e.png",
@@ -11,10 +11,10 @@
     "static/media/matlab.png": "/portfolio/static/media/matlab.af07c4a65449874b7292.png",
     "index.html": "/portfolio/index.html",
     "main.aab1130e.css.map": "/portfolio/static/css/main.aab1130e.css.map",
-    "main.682586c1.js.map": "/portfolio/static/js/main.682586c1.js.map"
+    "main.76224f48.js.map": "/portfolio/static/js/main.76224f48.js.map"
   },
   "entrypoints": [
     "static/css/main.aab1130e.css",
-    "static/js/main.682586c1.js"
+    "static/js/main.76224f48.js"
   ]
 }
