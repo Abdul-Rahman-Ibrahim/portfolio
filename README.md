@@ -4,7 +4,7 @@
   <a href="https://abdul-rahman-ibrahim.github.io/portfolio/" target="_blank">Website</a>
 </h2>
 
-This is my personal website..
+This is my personal website.
 
 ## Installation Guide
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import { BsClipboardData } from "react-icons/bs";
+// import { BsClipboardData } from "react-icons/bs";
 import { DiCodeigniter } from "react-icons/di";
 import { GiCommercialAirplane } from "react-icons/gi";
 import { FaMobileAlt } from "react-icons/fa";
