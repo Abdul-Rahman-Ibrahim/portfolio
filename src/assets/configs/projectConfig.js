@@ -12,31 +12,31 @@ import React from 'react'
 const projectConfig = [
     {
         id: "project-5",
-        title: "Sklearn Genetic Opt",
+        title: "3 Marbles Game",
         links: [
             {
                 name: "repo",
-                url: "https://github.com/rodrigo-arenas/Sklearn-genetic-opt",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/3-Marbles-Game",
                 icon: <AiFillGithub />,
             },
             {
                 name: "fork",
-                url: "https://github.com/rodrigo-arenas/Sklearn-genetic-opt/fork",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/3-Marbles-Game/fork",
                 icon: <BiGitRepoForked />,
             },
             {
                 name: "subscription",
-                url: "https://github.com/rodrigo-arenas/Sklearn-genetic-opt/subscription",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/3-Marbles-Game/subscription",
                 icon: <AiFillEye />,
             },
             {
                 name: "docs",
-                url: "https://sklearn-genetic-opt.readthedocs.io/en/stable/",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/3-Marbles-Game",
                 icon: <ImBook />,
             }
         ],
         image: sklearnGenetic,
-        description: "scikit-learn models hyperparameters tuning and feature selection, using evolutionary algorithms.",
+        description: "A popular childhood game in Ghana",
         target: "_blank"
     },
     {
@@ -65,60 +65,60 @@ const projectConfig = [
             }
         ],
         image: graphEmbeddings,
-        description: "Graph embeddings for downstream tasks.",
+        description: "A book review and recommendation app",
         target: "_blank"
     },
     {
         id: "project-3",
-        title: "Kafkaml Anomalies",
+        title: "Blood Pressure Estimation Model",
         links: [
             {
                 name: "repo",
-                url: "https://github.com/rodrigo-arenas/kafkaml-anomaly-detection",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/BP-PROJECT",
                 icon: <AiFillGithub />
             },
             {
                 name: "fork",
-                url: "https://github.com/rodrigo-arenas/kafkaml-anomaly-detection/fork",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/BP-PROJECT/fork",
                 icon: <BiGitRepoForked />
             },
             {
                 name: "subscription",
-                url: "https://github.com/rodrigo-arenas/kafkaml-anomaly-detection/subscription",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/BP-PROJECT/subscription",
                 icon: <AiFillEye />
             }
         ],
         image: kafkaMl,
-        description: "Project for real-time anomaly detection using kafka and python.",
+        description: "Project for real-time Blood pressure estimation using dataset from NHANES.",
         target: "_blank"
     },
     {
         id: "project-2",
-        title: "Pyworkforce",
+        title: "Ping Pong Game with VHDL and FPGA",
         links: [
             {
                 name: "repo",
-                url: "https://github.com/rodrigo-arenas/pyworkforce",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/Ping-Pong-Game-using-VHDL-and-FPGA",
                 icon: <AiFillGithub />
             },
             {
                 name: "fork",
-                url: "https://github.com/rodrigo-arenas/pyworkforce/fork",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/Ping-Pong-Game-using-VHDL-and-FPGA/fork",
                 icon: <BiGitRepoForked />
             },
             {
                 name: "subscription",
-                url: "https://github.com/rodrigo-arenas/pyworkforce/subscription",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/Ping-Pong-Game-using-VHDL-and-FPGA/subscription",
                 icon: <AiFillEye />
             },
             {
                 name: "docs",
-                url: "https://pyworkforce.readthedocs.io/en/stable/",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/Ping-Pong-Game-using-VHDL-and-FPGA",
                 icon: <ImBook />,
             }
         ],
         image: "https://miro.medium.com/max/1400/1*UDnhOFK35IbAPx15wkMgVg.jpeg",
-        description: "Standard tools for workforce management, queuing, scheduling, rostering and optimization problems.",
+        description: "Ping Pong Game with VHDL and FPGA",
         target: "_blank"
     },
     {
@@ -127,22 +127,22 @@ const projectConfig = [
         links: [
             {
                 name: "repo",
-                url: "https://github.com/rodrigo-arenas/portfolio",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/portfolio",
                 icon: <AiFillGithub />
             },
             {
                 name: "fork",
-                url: "https://github.com/rodrigo-arenas/portfolio/fork",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/portfolio/fork",
                 icon: <BiGitRepoForked />
             },
             {
                 name: "subscription",
-                url: "https://github.com/rodrigo-arenas/portfolio/subscription",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/portfolio/subscription",
                 icon: <AiFillEye />
             }
         ],
         image: portfolio,
-        description: "Source code of my current portfolio web page as data scientist.",
+        description: "Source code of my current portfolio web page.",
         target: "_blank"
     }
 ]
