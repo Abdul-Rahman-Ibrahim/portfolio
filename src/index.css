@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@250;300&display=swap');
+body {
+    margin: 0;
+    font-family: "Raleway", serif !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: radial-gradient(rgb(168, 168, 168),rgb(124, 157, 124),rgb(100, 100, 100));
+}
+
+.about-card {
+    max-width: 1200px;
+    width: 90%;
+}
+
+@media screen and (max-width: 499px) {
+    html {
+        font-size: 0.8em;
+    }
+
+    .heading {
+        padding: 2rem 0;
+        text-align: center;
+        padding-bottom: 1rem;
+    }
+
+    .Typewriter {
+        font-size: 0.6rem;
+        margin-bottom: 2rem;
+    }
+}
