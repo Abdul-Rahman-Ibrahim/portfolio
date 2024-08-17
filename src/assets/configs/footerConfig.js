@@ -7,7 +7,7 @@ const footerConfig = {
     icons: [
         {
             id: "footer-0",
-            url: "https://github.com/Abdul-Rahman Ibrahim",
+            url: "https://github.com/Abdul-Rahman-Ibrahim",
             className: "social-icon",
             target: "_blank",
             icon: <AiFillGithub size={50} />
