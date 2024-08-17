@@ -4,13 +4,12 @@ import {
     SiCss3,
     SiHtml5,
     SiCplusplus,
-    SiArdour,
+    SiArduino,
     SiGnubash
 } from "react-icons/si";
-import { GrMysql } from "react-icons/gr";
 import { FaGitAlt, FaAws, FaRegFileExcel, FaRegFilePowerpoint } from "react-icons/fa";
 import { IoHardwareChipOutline } from "react-icons/io5";
-// import { TbMathMaxMin } from "react-icons/tb";
+import matlab from "../images/matlab.png"
 
 import React from "react";
 
@@ -25,7 +24,7 @@ const skillsConfig = {
         {
             id: "skills-1",
             className: "skill-icon",
-            icon: <GrMysql size={50} />,
+            icon: <img src={matlab} alt="MATLAB" style={{ width: 50, height: 50 }} />,
             text: "MATLAB"
         },
         {
@@ -76,30 +75,24 @@ const skillsConfig = {
             id: "skills-10",
             className: "skill-icon",
             icon: <IoHardwareChipOutline size={50} />,
-            text: "FPGA"
+            text: "FPGA/VHDL"
         },
         {
             id: "skills-11",
-            className: "skill-icon",
-            icon: <IoHardwareChipOutline size={50} />,
-            text: "VHDL"
-        },
-        {
-            id: "skills-12",
             className: "skill-icon",
             icon: <SiCss3 size={50} />,
             text: "CSS 3"
         },
         {
-            id: "skills-13",
+            id: "skills-12",
             className: "skill-icon",
             icon: <SiHtml5 size={50} />,
             text: "HTML 5"
         },
         {
-            id: "skills-14",
+            id: "skills-13",
             className: "skill-icon",
-            icon: <SiArdour size={50} />,
+            icon: <SiArduino size={50} />,
             text: "Arduino"
         }
         // ,
