@@ -17,7 +17,7 @@ const homeConfig = {
         "Software Engineer"
     ],
     about: {
-        start: "I am currently an engineering student and work part-time, where I focus on optimizing AI models to analyze faults in washing machines and make calculations. I am passionate about learning new technologies, contributing to the AI and data science community, and sharing the power of data.",
+        start: "I am currently an engineering student and work part-time, where I focus on optimizing AI models to analyze faults in Beko's various home appliance products and make calculations. I am passionate about learning new technologies, contributing to the AI and data science community, and sharing the power of data.",
         exit: "I am proficient in Python, MATLAB, C/C++, and more."
     },
     workTimeline: [
