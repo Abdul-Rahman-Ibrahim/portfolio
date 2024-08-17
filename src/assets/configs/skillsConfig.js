@@ -7,10 +7,10 @@ import {
     SiArdour,
     SiGnubash
 } from "react-icons/si";
-// import {GrMysql} from "react-icons/gr";
+import { GrMysql } from "react-icons/gr";
 import { FaGitAlt, FaAWs, FaRegFileExcel, FaRegFilePowerpoint } from "react-icons/fa";
 import { IoHardwareChipOutline } from "react-icons/io5";
-import { TbMathMaxMin } from "react-icons/tb";
+// import { TbMathMaxMin } from "react-icons/tb";
 
 import React from "react";
 
@@ -25,7 +25,7 @@ const skillsConfig = {
         {
             id: "skills-1",
             className: "skill-icon",
-            icon: <TbMathMaxMin size={50} />,
+            icon: <GrMysql size={50} />,
             text: "MATLAB"
         },
         {
