@@ -17,35 +17,6 @@ import React from 'react'
 const projectConfig = [
     {
         id: "project-5",
-        title: "3 Marbles Game",
-        links: [
-            {
-                name: "repo",
-                url: "https://github.com/Abdul-Rahman-Ibrahim/3-Marbles-Game",
-                icon: <AiFillGithub />,
-            },
-            {
-                name: "fork",
-                url: "https://github.com/Abdul-Rahman-Ibrahim/3-Marbles-Game/fork",
-                icon: <BiGitRepoForked />,
-            },
-            {
-                name: "subscription",
-                url: "https://github.com/Abdul-Rahman-Ibrahim/3-Marbles-Game/subscription",
-                icon: <AiFillEye />,
-            },
-            {
-                name: "docs",
-                url: "https://github.com/Abdul-Rahman-Ibrahim/3-Marbles-Game",
-                icon: <ImBook />,
-            }
-        ],
-        image: marblegame,
-        description: "A popular childhood game in Ghana",
-        target: "_blank"
-    },
-    {
-        id: "project-4",
         title: "KU Books AI",
         links: [
             {
@@ -62,19 +33,20 @@ const projectConfig = [
                 name: "subscription",
                 url: "https://github.com/Abdul-Rahman-Ibrahim/KUBOOKSAI/subscription",
                 icon: <AiFillEye />,
-            },
-            {
-                name: "docs",
-                url: "https://github.com/Abdul-Rahman-Ibrahim/KUBOOKSAI",
-                icon: <ImBook />,
             }
+            // {
+            //     name: "docs",
+            //     url: "https://github.com/Abdul-Rahman-Ibrahim/KUBOOKSAI",
+            //     icon: <ImBook />,
+            // }
         ],
         image: kubooks,
         description: "A book review and recommendation app",
         target: "_blank"
     },
+
     {
-        id: "project-3",
+        id: "project-4",
         title: "Blood Pressure Estimation Model",
         links: [
             {
@@ -97,6 +69,37 @@ const projectConfig = [
         description: "Project for real-time Blood pressure estimation using dataset from NHANES.",
         target: "_blank"
     },
+
+    {
+        id: "project-3",
+        title: "3 Marbles Game",
+        links: [
+            {
+                name: "repo",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/3-Marbles-Game",
+                icon: <AiFillGithub />,
+            },
+            {
+                name: "fork",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/3-Marbles-Game/fork",
+                icon: <BiGitRepoForked />,
+            },
+            {
+                name: "subscription",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/3-Marbles-Game/subscription",
+                icon: <AiFillEye />,
+            }
+            // {
+            //     name: "docs",
+            //     url: "https://github.com/Abdul-Rahman-Ibrahim/3-Marbles-Game",
+            //     icon: <ImBook />,
+            // }
+        ],
+        image: marblegame,
+        description: "A popular childhood game in Ghana",
+        target: "_blank"
+    },
+
     {
         id: "project-2",
         title: "Ping Pong Game with VHDL and FPGA",
@@ -115,12 +118,12 @@ const projectConfig = [
                 name: "subscription",
                 url: "https://github.com/Abdul-Rahman-Ibrahim/Ping-Pong-Game-using-VHDL-and-FPGA/subscription",
                 icon: <AiFillEye />
-            },
-            {
-                name: "docs",
-                url: "https://github.com/Abdul-Rahman-Ibrahim/Ping-Pong-Game-using-VHDL-and-FPGA",
-                icon: <ImBook />,
             }
+            // {
+            //     name: "docs",
+            //     url: "https://github.com/Abdul-Rahman-Ibrahim/Ping-Pong-Game-using-VHDL-and-FPGA",
+            //     icon: <ImBook />,
+            // }
         ],
         image: fpga,
         description: "Ping Pong Game with VHDL and FPGA",

@@ -143,7 +143,7 @@ const blogConfig = [
             }
         ],
         image: "https://miro.medium.com/v2/resize:fit:720/format:webp/0*8D52-sn7KqK1E0bY.jpeg",
-        description: "Learn how to calculate and implement the dimension of convolutional layers",
+        description: "Learn how to calculate, implement and automate the dimensions of convolutional layers",
         target: "_blank"
     }
 ]
