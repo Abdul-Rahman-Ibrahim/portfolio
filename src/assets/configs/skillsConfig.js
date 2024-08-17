@@ -8,7 +8,7 @@ import {
     SiGnubash
 } from "react-icons/si";
 import { GrMysql } from "react-icons/gr";
-import { FaGitAlt, FaAWs, FaRegFileExcel, FaRegFilePowerpoint } from "react-icons/fa";
+import { FaGitAlt, FaAws, FaRegFileExcel, FaRegFilePowerpoint } from "react-icons/fa";
 import { IoHardwareChipOutline } from "react-icons/io5";
 // import { TbMathMaxMin } from "react-icons/tb";
 
@@ -37,7 +37,7 @@ const skillsConfig = {
         {
             id: "skills-3",
             className: "skill-icon",
-            icon: <FaAWs size={50} />,
+            icon: <FaAws size={50} />,
             text: "AWS"
         },
         {
