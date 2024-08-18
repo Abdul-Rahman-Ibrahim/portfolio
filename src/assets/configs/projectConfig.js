@@ -33,12 +33,12 @@ const projectConfig = [
                 name: "subscription",
                 url: "https://github.com/Abdul-Rahman-Ibrahim/KUBOOKSAI/subscription",
                 icon: <AiFillEye />,
+            },
+            {
+                name: "docs",
+                url: "https://ku-books-recommendation.vercel.app/",
+                icon: <ImBook />,
             }
-            // {
-            //     name: "docs",
-            //     url: "https://github.com/Abdul-Rahman-Ibrahim/KUBOOKSAI",
-            //     icon: <ImBook />,
-            // }
         ],
         image: kubooks,
         description: "A book review and recommendation app",
