@@ -14,7 +14,7 @@ const footerConfig = {
         },
         {
             id: "footer-1",
-            url: "https://linkedin.com",
+            url: "https://linkedin.com--",
             className: "social-icon",
             target: "_blank",
             icon: <FaLinkedinIn size={50} />
