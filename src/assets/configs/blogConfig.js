@@ -1,5 +1,5 @@
 import React from 'react'
-// import { AiFillGithub } from "react-icons/ai";
+import { AiFillGithub } from "react-icons/ai";
 import { SiMedium } from "react-icons/si";
 // import fastapiSklearn from "../images/fastapi_sklearn.png"
 
@@ -119,17 +119,17 @@ const blogConfig = [
             {
                 name: "article",
                 url: "https://medium.com/@abdulrahmanibrahim.ish/decrypting-the-caesar-cipher-with-python-a-step-by-step-guide-994c847a8d31",
-                icon: <SiMedium/>
+                icon: <SiMedium />
             },
             {
                 name: "repo",
                 url: "https://github.com/Abdul-Rahman-Ibrahim/Decrypting-Caesar-Cipher-using-Brute-Force",
-                icon: <AiFillGithub/>
+                icon: <AiFillGithub />
             }
         ],
         image: "https://miro.medium.com/v2/resize:fit:640/format:webp/0*0DyPjsPqkQsSUtrN.png",
         description: "A Python-based Caesar Cipher decryption tool that brute-forces all possible shifts to" +
-                    "automatically decrypt encrypted messages.",
+            "automatically decrypt encrypted messages.",
         target: "_blank"
     },
     {
