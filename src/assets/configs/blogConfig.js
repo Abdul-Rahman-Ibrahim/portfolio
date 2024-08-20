@@ -112,26 +112,26 @@ const blogConfig = [
     //     description: "Scikit-learn hyperparameters tuning with evolutionary algorithms and cross-validation.",
     //     target: "_blank"
     // },
-    // {
-    //     id: "blog-1",
-    //     title: "Manage your machine learning life cycle with MLflow in Python",
-    //     links: [
-    //         {
-    //             name: "article",
-    //             url: "https://medium.com/analytics-vidhya/manage-your-machine-learning-lifecycle-with-mlflow-in-python-d678d5f3c682",
-    //             icon: <SiMedium/>
-    //         },
-    //         {
-    //             name: "repo",
-    //             url: "https://github.com/rodrigo-arenas/mlflow-basics",
-    //             icon: <AiFillGithub/>
-    //         }
-    //     ],
-    //     image: "https://miro.medium.com/max/1400/1*FhKrMpcUPeZxNsZpKNv4BA.png",
-    //     description: "Enable collaboration across data scientists; gain control over different models versions, " +
-    //         "multiple experiments within the same problem, and models management and deployment.",
-    //     target: "_blank"
-    // },
+    {
+        id: "blog-1",
+        title: "Decrypting the Caesar Cipher with Python: A Step-by-Step Guide",
+        links: [
+            {
+                name: "article",
+                url: "https://medium.com/@abdulrahmanibrahim.ish/decrypting-the-caesar-cipher-with-python-a-step-by-step-guide-994c847a8d31",
+                icon: <SiMedium/>
+            },
+            {
+                name: "repo",
+                url: "https://github.com/Abdul-Rahman-Ibrahim/Decrypting-Caesar-Cipher-using-Brute-Force",
+                icon: <AiFillGithub/>
+            }
+        ],
+        image: "https://miro.medium.com/v2/resize:fit:640/format:webp/0*0DyPjsPqkQsSUtrN.png",
+        description: "A Python-based Caesar Cipher decryption tool that brute-forces all possible shifts to" +
+                    "automatically decrypt encrypted messages.",
+        target: "_blank"
+    },
     {
         id: "blog-0",
         title: "Building an AutoML Convolutional Neural Network with Pytorch",
