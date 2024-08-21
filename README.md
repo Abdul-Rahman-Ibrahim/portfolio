@@ -59,6 +59,5 @@ an image from the `assets/images` folder.
 Take the `.env.example` file, put your tracking id in the
 variable `REACT_APP_TRACKING_ID` and rename the file to `.env`
 
-### reference
 
 
