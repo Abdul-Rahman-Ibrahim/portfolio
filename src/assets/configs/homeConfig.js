@@ -67,7 +67,7 @@ const homeConfig = {
             date: "2022",
             icon: <GiCommercialAirplane />,
             tags: ["marketting", "excel", "python", "backend"]
-        },
+        }
         // {
         //     id: "work-0",
         //     title: "BI Analyst",
