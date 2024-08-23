@@ -1,6 +1,6 @@
 import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import { BsMedium } from "react-icons/bs";
+import { BsMedium, BsTwitter } from "react-icons/bs";
 import React from "react";
 
 const footerConfig = {
@@ -14,10 +14,10 @@ const footerConfig = {
         },
         {
             id: "footer-1",
-            url: "https://linkedin.com",
+            url: "https://x.com/AbdulRa62015444",
             className: "social-icon",
             target: "_blank",
-            icon: <FaLinkedinIn size={50} />
+            icon: <BsTwitter size={50} />
         },
         {
             id: "footer-2",

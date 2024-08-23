@@ -50,7 +50,7 @@ const homeConfig = {
         {
             id: "work-2",
             title: "Software Developer Intern",
-            company: "Sentez Security and Software Services",
+            company: "Security and Software Services",
             description: "Developed a software for finger print tracking attendance machine and " +
                 "worked with a team of 4 to process images from camera for user identification",
             date: "2023",
@@ -59,12 +59,11 @@ const homeConfig = {
         },
         {
             id: "work-1",
-            title: "International Students Recruitment Team",
-            company: "Koc University",
-            description: "Developed an automated email application to send messages" +
-                "to a list of students from an Excel file. Managed the team's social media handle, " +
-                "increasing engagement by 15%, and oversaw the marketing database " +
-                "and data management initiatives.",
+            title: "Undergraduate Research Assistant",
+            company: "PAWS Lab",
+            description: "Find correlations between each of ECG and SCG signals with body composition" +
+                "features among 14 patients. Worked on developing framework for Seizure Prediction" +
+                "using EEG signals.",
             date: "2022",
             icon: <GiCommercialAirplane />,
             tags: ["marketting", "excel", "python", "backend"]
