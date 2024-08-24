@@ -1,7 +1,7 @@
 import { AiFillGithub } from "react-icons/ai";
-import { FaTwitter } from "react-icons/fa";
+// import { FaTwitter } from "react-icons/fa";
 import { BsMedium } from "react-icons/bs";
-//import { FaSquareXTwitter } from "react-icons/fa6";
+import xlogo from "../images/X_logo.png";
 import React from "react";
 
 const footerConfig = {
@@ -18,7 +18,7 @@ const footerConfig = {
             url: "https://x.com/AbdulRa62015444",
             className: "social-icon",
             target: "_blank",
-            icon: <FaTwitter size={50} />
+            icon: < img src={xlogo} alt="X" style={{ width: 50, height: 50 }} />
         },
         {
             id: "footer-2",
