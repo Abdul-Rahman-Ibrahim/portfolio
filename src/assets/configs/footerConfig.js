@@ -18,7 +18,7 @@ const footerConfig = {
             url: "https://x.com/AbdulRa62015444",
             className: "social-icon",
             target: "_blank",
-            icon: < img src={xlogo} alt="X" style={{ width: 50, height: 50 }} />
+            icon: < img src={xlogo} alt="X" size={50} />
         },
         {
             id: "footer-2",
