@@ -43,7 +43,7 @@ const homeConfig = {
                 "for vital signs estimation, and applied signal processing techniques including FFTs" +
                 "and 1D/2D CNNs. Developed models to clean noise and motion artifacts from PPG" +
                 "and ECG signals and gained experience in using AWS for building AI models.",
-            date: "2024-Present",
+            date: "2024",
             icon: <DiCodeigniter />,
             tags: ["ml", "python", "AWS", "signal processing"]
         },
@@ -62,7 +62,7 @@ const homeConfig = {
             title: "Undergraduate Research Assistant",
             company: "PAWS Lab",
             description: "Find correlations between each of ECG and SCG signals with body composition" +
-                "features among 14 patients. Worked on developing framework for Seizure Prediction" +
+                "features among 14 patients. Worked on developing framework for Seizure Prediction " +
                 "using EEG signals.",
             date: "2022",
             icon: <GiCommercialAirplane />,
