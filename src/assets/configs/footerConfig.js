@@ -1,7 +1,7 @@
 import { AiFillGithub } from "react-icons/ai";
 //import { FaXTwitter } from "react-icons/fa6";
 import { BsMedium } from "react-icons/bs";
-import { RiTwitterXFill } from "react-icons/ri";
+import { FaSquareXTwitter } from "react-icons/fa6";
 import React from "react";
 
 const footerConfig = {
@@ -18,7 +18,7 @@ const footerConfig = {
             url: "https://x.com/AbdulRa62015444",
             className: "social-icon",
             target: "_blank",
-            icon: <RiTwitterXFill size={50} />
+            icon: <FaSquareXTwitter size={50} />
         },
         {
             id: "footer-2",
