@@ -1,7 +1,7 @@
 import { AiFillGithub } from "react-icons/ai";
 // import { FaTwitter } from "react-icons/fa";
 import { BsMedium } from "react-icons/bs";
-import xlogo from "../images/X_logo.png";
+import xlogo from "../images/xlogo.png";
 import React from "react";
 
 const footerConfig = {
