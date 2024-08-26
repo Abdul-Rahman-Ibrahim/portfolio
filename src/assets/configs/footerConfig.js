@@ -1,5 +1,6 @@
 import { AiFillGithub } from "react-icons/ai";
-import { FaTwitter } from "react-icons/fa";
+// import { FaTwitter } from "react-icons/fa";
+import { BsTwitterX } from "react-icons/bs";
 import { BsMedium } from "react-icons/bs";
 // import xlogo from "../images/xlogo.png";
 import React from "react";
@@ -19,7 +20,8 @@ const footerConfig = {
             className: "social-icon",
             target: "_blank",
             //icon: < img src={xlogo} alt="X" size={2} />
-            icon: <FaTwitter size={50} />
+            // icon: <FaTwitter size={50} />
+            icon: <BsTwitterX size={50} />
         },
         {
             id: "footer-2",
