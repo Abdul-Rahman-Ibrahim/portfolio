@@ -21,6 +21,18 @@ const homeConfig = {
         exit: "I am proficient in Python, MATLAB, C/C++, and more."
     },
     workTimeline: [
+
+        {
+            id: "work-5",
+            title: "PhD Student",
+            company: "Koc University",
+            description: "Reservoir Computing" +
+                "Biosensors, Machine Learning and Artificial Intelligence" + 
+                "Nanotechnology and Nano-materials",
+            date: "2023-Present",
+            icon: <BiRocket />,
+            tags: ["ml", "ai", "python", "engineering", "research"]
+        },
         {
             id: "work-4",
             title: "Complexity Researcher",
@@ -36,14 +48,14 @@ const homeConfig = {
         },
         {
             id: "work-3",
-            title: "AI Intern",
+            title: "AI",
             company: "Carex AI",
             description: "Implemented cutting-edge CNN models to estimate" +
                 "heart rate from PPG signals, automated model selection and hyperparameter tuning" +
                 "for vital signs estimation, and applied signal processing techniques including FFTs" +
                 "and 1D/2D CNNs. Developed models to clean noise and motion artifacts from PPG" +
                 "and ECG signals and gained experience in using AWS for building AI models.",
-            date: "2024",
+            date: "2024-Present",
             icon: <DiCodeigniter />,
             tags: ["ml", "python", "AWS", "signal processing"]
         },
