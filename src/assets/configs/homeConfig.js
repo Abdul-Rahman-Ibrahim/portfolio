@@ -21,6 +21,18 @@ const homeConfig = {
         exit: "I am proficient in Python, MATLAB, C/C++, and more."
     },
     workTimeline: [
+
+        {
+            id: "work-5",
+            title: "PhD Student",
+            company: "Koc University",
+            description: "Reservoir Computing" +
+                "Biosensors, Machine Learning and Artificial Intelligence" + 
+                "Nanotechnology and Nano-materials",
+            date: "2023-Present",
+            icon: <BiRocket />,
+            tags: ["ml", "ai", "python", "engineering", "research"]
+        },
         {
             id: "work-4",
             title: "Complexity Researcher",
