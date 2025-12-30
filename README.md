@@ -7,11 +7,6 @@
 This is my personal website.
 
 ## Installation Guide
-
-* Fork the project
-  ```
-  https://github.com/rodrigo-arenas/portfolio/fork
-  ```
 * Clone your fork
   ```
   git clone https://github.com/{yourusername}/portfolio.git
